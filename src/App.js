@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     space-xs
+     Welcome to space-x 
     </div>
   );
 }
