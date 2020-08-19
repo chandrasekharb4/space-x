@@ -1,5 +1,6 @@
 .launch .img{
 width:200px;height:200px;
+width:15%;
 }
 
 .launch .img img{
@@ -22,6 +23,7 @@ border: 1px solid #ccc;
 .launch .data{
 float:right;
 margin-left:25px;
+width:85%
 }
 
 p.ttl {
